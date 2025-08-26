@@ -90,7 +90,7 @@ Run the Jupyter notebook Applai_project_final(2).ipynb for detailed steps.
 
 🎥 Video Demo
 
-📽️ []
+📽️ [https://youtu.be/eOSUk-ZYGe4]
 
 🙏 Acknowledgments
 
