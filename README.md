@@ -63,6 +63,7 @@ Models saved using Joblib
 🚀 Installation
 # 1. Clone the repository
 git clone https://github.com/Ibrahimali22/Customer-Segmentation-Project.git
+
 cd Customer-Segmentation-Project
 
 # 2. Install dependencies
